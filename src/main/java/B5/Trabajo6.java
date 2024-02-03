@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 //Ejericicio Final
 //Calculadora de edad. pedir fecha de nacimiento (yyyy-MM-dd) y calcular la edad de la persona.
-public class EjercicioFinal {
+public class Trabajo6 {
     public static void main(String[] args) {
         try {
             LocalDate localDate = LocalDate.now();
